@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "nr-blocklibrary/border-control",
+  "version": "0.1.0",
+  "title": "Border Control",
+  "description": "Adds borders all blocks",
+  "textdomain": "nr-blocklibrary",
+  "editorScript": "file:./index.js"
+}
